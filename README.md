@@ -71,4 +71,4 @@ An interactive and dynamic dashboard was built using **Power BI** to present vis
 * **GitHub** – For version control, project documentation, and submission.
 
 ---
-*Completed by Weliketiye Gedara Sashini Ruwanthika Weliketiya*
+*Completed Sashini Weliketiya*
